@@ -1,5 +1,3 @@
-I don't apply currently i am just making sure to be ready for any chance
-
 my Name is Abdelrahman Ahmed Nassar (famous for Abdelrahman Nassar)
 
 I am from Egypt
