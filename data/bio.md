@@ -26,6 +26,7 @@ In secondary year 3, he paused all programming to focus entirely on his national
 He enrolled at Al-Azhar University and fought hard in the preparatory year to qualify for the **Computer & Systems Engineering** department (his dream department). He achieved a **3.5 GPA, ranked 2nd in his class**, and was formally honored by the college.
 
 During that same year, he created 4 YouTube courses for his classmates on his channel ([@3of-academy](https://www.youtube.com/@3of-academy)):
+
 - Engineering Drawing
 - MATLAB
 - Flowcharts
@@ -34,6 +35,7 @@ During that same year, he created 4 YouTube courses for his classmates on his ch
 ### First Year — Building Real Products
 
 He entered Computer Engineering and immediately started building real, production-grade software:
+
 - Built the official **Al-Azhar Electronics Showcase** platform (adopted by the university)
 - Built a full **LMS system** for a private teacher
 - Learned Docker, Nginx, VPS management, and CI/CD from scratch
@@ -108,4 +110,4 @@ https://abdelrahman-ahmed-nassar.github.io/public-obsidian/
 
 ## LinkedIn (7,000+ followers)
 
-https://www.linkedin.com/in/abdelrahman-ahmed-nassar
+https://www.linkedin.com/in/abdelrahmannassar/

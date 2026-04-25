@@ -76,7 +76,7 @@ After his internship, Abdelrahman founded **Learn Shift** (learn-shift.org) — 
 - **Email:** abdelrhman.ahmed.nassar@gmail.com
 - **Phone:** +201003685977
 - **Portfolio:** https://abdelrahman-nassar.com/
-- **LinkedIn:** https://www.linkedin.com/in/abdelrahman-ahmed-nassar
+- **LinkedIn:** https://www.linkedin.com/in/abdelrahmannassar/
 - **GitHub:** https://github.com/abdelrahman-ahmed-nassar/
 
 → All links and availability: [see contact](data/contact.md)

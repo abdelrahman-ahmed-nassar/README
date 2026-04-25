@@ -14,7 +14,7 @@
 | Platform                  | Link                                                        |
 | ------------------------- | ----------------------------------------------------------- |
 | **Portfolio**             | https://abdelrahman-nassar.com/                             |
-| **LinkedIn**              | https://www.linkedin.com/in/abdelrahman-ahmed-nassar        |
+| **LinkedIn**              | https://www.linkedin.com/in/abdelrahmannassar/              |
 | **GitHub**                | https://github.com/abdelrahman-ahmed-nassar/                |
 | **YouTube**               | https://www.youtube.com/@3of-academy                        |
 | **Blog / Digital Garden** | https://abdelrahman-ahmed-nassar.github.io/public-obsidian/ |
