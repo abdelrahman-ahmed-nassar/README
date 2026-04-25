@@ -571,7 +571,7 @@ so now
 
 🏆 Impact
 
-Served 20,000+ students and 3+ teachers across multiple online classes.
+Served 20,000+ students and 5+ teachers across multiple online classes.
 
 Reduced manual grading and student management effort by over 70%.
 

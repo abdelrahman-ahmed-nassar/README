@@ -123,7 +123,7 @@ A: Yes — student-facing demo at demo.learn-shift.org and admin dashboard demo 
 ---
 
 **Q: How many clients does Learn Shift have?**
-A: Currently 3+ active teacher/academy clients with live platforms: heba-elsayed.com, muslim-house.com, waytoislam.academy, and a few others. Together they serve 20,000+ students.
+A: Currently 5+ active teacher/academy clients with live platforms: heba-elsayed.com, muslim-house.com, waytoislam.academy, and a few others. Together they serve 20,000+ students.
 
 ---
 

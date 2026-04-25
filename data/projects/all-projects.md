@@ -47,7 +47,7 @@ Next.js · TypeScript · Tailwind CSS · Supabase · PostgreSQL · Cloudinary
 
 ### Overview
 
-Built for a private teacher to transition from offline to online teaching. This evolved into the core product of the Learn Shift startup, now serving 3+ teachers and 20,000+ students.
+Built for a private teacher to transition from offline to online teaching. This evolved into the core product of the Learn Shift startup, now serving 5+ teachers and 20,000+ students.
 
 ### Platform Architecture: Two Parts
 

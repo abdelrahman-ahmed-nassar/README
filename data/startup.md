@@ -12,7 +12,7 @@
 
 Learn Shift is a startup founded by Abdelrahman Nassar that empowers teachers and online academies to deliver professional e-learning through white-label LMS platforms.
 
-The name reflects the mission: making a *shift* in how people learn using software solutions.
+The name reflects the mission: making a _shift_ in how people learn using software solutions.
 
 ---
 
@@ -33,12 +33,14 @@ He then decided to convert the project into a product, hired 2 developers (paid 
 A white-label LMS SaaS platform. Each client gets their own branded platform (student-facing website + admin dashboard + backend) deployed in under a day, thanks to a **monorepo architecture**.
 
 ### Architecture
+
 - 3 repositories: `client`, `admin`, `server`
 - Shared packages in a `/packages` folder for reusable code
 - Each teacher/academy gets their own `.env` and `docker-compose` file
 - No new codebase per client — the product scales instantly
 
 ### Demo
+
 - Student view: https://demo.learn-shift.org/
 - Admin dashboard: https://dashboard-demo.learn-shift.org/
 
@@ -47,24 +49,30 @@ A white-label LMS SaaS platform. Each client gets their own branded platform (st
 ## Clients & Products
 
 ### 1. Heba El-Sayed — Private Teacher Platform
+
 **URL:** https://heba-elsayed.com/
 A full LMS for a private teacher transitioning from offline to online. The original project that launched the startup.
 
 ### 2. Mohammed Hekal — Teacher Platform
+
 **URL:** https://mohammed-hekal.com/
 
 ### 3. Abulilah — Teacher Platform
+
 **URL:** https://abulilah.com/
 
 ### 4. Muslim House — Islamic Academy (Sessions-Based LMS)
+
 **URL:** https://muslim-house.com/
 An Islamic academy teaching Quran, Arabic, and Islamic Studies via 1-on-1 online sessions and recorded courses. Extended the core product to support session-based learning with teacher/student scheduling, session reports, and subscription management.
 
 ### 5. Way to Islam — Islamic Academy
+
 **URL:** https://waytoislam.academy/
 Sold the same sessions-based system to a second Islamic academy. Deployed rapidly using the monorepo architecture.
 
 ### 6. Al-Mostafa Kindergarten — ERP System
+
 **URL:** https://almostafa.academy/
 A comprehensive ERP for a nursery managing 100+ employees and 1,000+ children. Treated as a new vertical (education institutions), built with the same tech stack but as a separate product.
 → Full details in `projects.md`
@@ -73,18 +81,19 @@ A comprehensive ERP for a nursery managing 100+ employees and 1,000+ children. T
 
 ## Impact
 
-| Metric | Number |
-|---|---|
-| Students served | 20,000+ |
-| Teachers/clients | 3+ active teachers |
-| Manual effort reduced | 70%+ (grading, management) |
-| Outcome | Teachers fully transitioned from offline to professional e-learning delivery |
+| Metric                | Number                                                                       |
+| --------------------- | ---------------------------------------------------------------------------- |
+| Students served       | 20,000+                                                                      |
+| Teachers/clients      | 5+ active teachers                                                           |
+| Manual effort reduced | 70%+ (grading, management)                                                   |
+| Outcome               | Teachers fully transitioned from offline to professional e-learning delivery |
 
 ---
 
 ## Operations & Management
 
 During the startup phase, Abdelrahman:
+
 - Managed 2 part-time developers via Trello (paid per hour)
 - Handled all marketing (Facebook ads, content, LinkedIn posts)
 - Built brand identity and brand design

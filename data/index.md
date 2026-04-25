@@ -4,36 +4,39 @@
 
 ## Personal Information
 
-- **Full Name:** Abdelrahman Ahmed Nassar *(known as Abdelrahman Nassar)*
-- **Date of Birth:** April 2005 *(21 years old)*
+- **Full Name:** Abdelrahman Ahmed Nassar _(known as Abdelrahman Nassar)_
+- **Date of Birth:** April 2005 _(21 years old)_
 - **Nationality:** Egyptian
 - **Location:** Cairo, Egypt
 
 ### Contact & Links
 
-| Platform    | Link |
-|-------------|------|
-| Email       | abdelrhman.ahmed.nassar@gmail.com |
-| Phone       | +201003685977 |
-| Portfolio   | https://abdelrahman-nassar.com/ |
-| LinkedIn    | https://www.linkedin.com/in/abdelrahmannassar/ |
-| GitHub      | https://github.com/abdelrahman-ahmed-nassar/ |
+| Platform  | Link                                           |
+| --------- | ---------------------------------------------- |
+| Email     | abdelrhman.ahmed.nassar@gmail.com              |
+| Phone     | +201003685977                                  |
+| Portfolio | https://abdelrahman-nassar.com/                |
+| LinkedIn  | https://www.linkedin.com/in/abdelrahmannassar/ |
+| GitHub    | https://github.com/abdelrahman-ahmed-nassar/   |
 
 ---
 
 ## Education
 
 ### Al-Azhar University — Faculty of Engineering, Cairo
+
 **Department:** Computer & Systems Engineering  
 **Status:** Third year (2 years remaining)  
 **Expected Graduation:** 2028  
 **Enrolled:** 2023
 
 **Academic Achievements:**
+
 - Achieved a GPA of **3.5** in the preparatory year, finishing **2nd place** in the department — which secured his entry into the Computer Engineering department.
 - Was **honored and awarded** by the faculty.
 
 ### Secondary School (Al-Azhar Schools)
+
 - Graduated with a **99% GPA**, ranked among the **top 10 students nationwide**.
 - Attended Al-Azhar schools throughout his entire pre-university education.
 
@@ -53,15 +56,15 @@ He was consistently a top student, achieving **first place at his school every y
 
 Abdelrahman's programming journey began before college, during his second year of secondary school. He participated in an internship program called **Kalbonyan Elmarsos**, which trained him to be a market-ready developer through a curated set of courses:
 
-- **Become a Programmer: Foundations** *(20h)* — 10 courses covering programming fundamentals and software development knowledge
-- **Build Responsive Real-World Websites with HTML and CSS** *(38h)* — Udemy, by Jonas Schmedtmann
-  - Built the *Omnifood* project
-- **The Complete JavaScript Course 2022: From Zero to Expert!** *(69h)* — Udemy
+- **Become a Programmer: Foundations** _(20h)_ — 10 courses covering programming fundamentals and software development knowledge
+- **Build Responsive Real-World Websites with HTML and CSS** _(38h)_ — Udemy, by Jonas Schmedtmann
+  - Built the _Omnifood_ project
+- **The Complete JavaScript Course 2022: From Zero to Expert!** _(69h)_ — Udemy
   - Built 5 projects: Pig Game, Bankist, Bankist Website, Mapty App, Forkify App
   - Gained deep understanding of JavaScript internals, ES6/ES7, Promises, and Async/Await
-- **React - The Complete Guide (incl Hooks, React Router, Redux)** *(48h)* — Udemy
+- **React - The Complete Guide (incl Hooks, React Router, Redux)** _(48h)_ — Udemy
   - Learned functional components, authentication, deployment, Redux, and React Router
-- **The Complete Node.js Developer Course (3rd Edition)** *(35h)* — Udemy
+- **The Complete Node.js Developer Course (3rd Edition)** _(35h)_ — Udemy
   - Learned Node.js, Express, MongoDB, and built 3 apps (chat app, notes app, weather app)
 - **AWS Certified Cloud Practitioner**
 - **AWS Certified Solutions Architect Associate**
@@ -80,12 +83,12 @@ After Kalbonyan Elmarsos, Abdelrahman took two gap years:
 
 During the preparatory year, alongside his studies, he created **4 full courses** on YouTube to help his college peers with their subjects. Channel: [@3of-academy](https://www.youtube.com/@3of-academy)
 
-| Course | Link |
-|--------|------|
-| Engineering Drawing | https://www.youtube.com/watch?v=WL8BKz_tmeY&list=PLUDVJNTZZK7Ji-0gbOzxFJQa1s500z8Hp |
-| MATLAB | https://www.youtube.com/watch?v=LWejRN0BPwM&list=PLUDVJNTZZK7Ih1uw51oAYiNx5RC5FbkqX |
-| Flowchart | https://www.youtube.com/watch?v=e3xwVp2hRJ4&list=PLUDVJNTZZK7LyckREH9cZE8bRm4PzJZM3 |
-| Introduction to Computers | https://www.youtube.com/playlist?list=PLUDVJNTZZK7IdidEY0F-nj1N8sfpIDtr9 |
+| Course                    | Link                                                                                |
+| ------------------------- | ----------------------------------------------------------------------------------- |
+| Engineering Drawing       | https://www.youtube.com/watch?v=WL8BKz_tmeY&list=PLUDVJNTZZK7Ji-0gbOzxFJQa1s500z8Hp |
+| MATLAB                    | https://www.youtube.com/watch?v=LWejRN0BPwM&list=PLUDVJNTZZK7Ih1uw51oAYiNx5RC5FbkqX |
+| Flowchart                 | https://www.youtube.com/watch?v=e3xwVp2hRJ4&list=PLUDVJNTZZK7LyckREH9cZE8bRm4PzJZM3 |
+| Introduction to Computers | https://www.youtube.com/playlist?list=PLUDVJNTZZK7IdidEY0F-nj1N8sfpIDtr9            |
 
 ---
 
@@ -126,7 +129,7 @@ The platform allows students to create accounts, form teams, and upload their en
 ### 2. Learning Management System (LMS) for Teachers
 
 **Type:** Full-Stack Production Platform  
-**Client Website:** https://heba-elsayed.com/  
+**Client Website:** https://heba-elsayed.com/
 
 This project was built for one of Abdelrahman's own teachers, with the goal of enabling the teacher to transition from offline-only classes to selling and delivering courses online.
 
@@ -138,6 +141,7 @@ The platform consisted of two parts:
 Built with: Next.js · TypeScript · Tailwind CSS · Dockerized on a VPS
 
 Features included:
+
 - Landing page + student dashboard
 - Course browsing, purchasing, and video viewing
 - Downloadable materials, quizzes, and exams
@@ -159,6 +163,7 @@ Features included:
 Built with: React.js · React Query · Ant Design · Tailwind CSS · TypeScript
 
 Features included:
+
 - Course builder with unit-based organization (videos, files, exams, links, notes)
 - Upload support: S3 or VPS (based on teacher budget)
 - Video hosting via **Bunny.net** (secure) or unlisted YouTube with anti-sharing protection
@@ -180,6 +185,7 @@ Features included:
 Built with: Node.js · NestJS · MongoDB · Redis · BullMQ · JWT
 
 Key implementations:
+
 - NestJS modular architecture with 40+ modules (auth, students, courses, videos, files, exams, transactions, codes, notifications, analytics, etc.)
 - JWT authentication with role-based access control (RBAC) and permissions
 - One-device login enforcement
@@ -198,6 +204,7 @@ Key implementations:
 **DevOps — First-time VPS Deployment**
 
 This was Abdelrahman's first experience with DevOps. He learned and implemented:
+
 - Linux basics and VPS setup on **DigitalOcean**
 - SSH connection management
 - Docker and Docker Compose
@@ -238,6 +245,7 @@ During the exhibition, a recruiter saw both this project and the LMS platform, w
 **Tech Stack:** MongoDB · Express.js · React.js · Node.js (MERN Stack)
 
 This was Abdelrahman's first experience working in a real company. Key responsibilities included:
+
 - Building modular, performant React components
 - Developing RESTful APIs with Express.js and MongoDB
 - Using Git, Postman, and VS Code in professional workflows
@@ -247,6 +255,7 @@ This was Abdelrahman's first experience working in a real company. Key responsib
 #### What He Gained Beyond Code
 
 Beyond technical skills, this experience gave Abdelrahman a new **"business mentality"**. He learned about:
+
 - Product management and product thinking
 - Project management, team coordination, and task organization
 - Business strategy, marketing, and how companies operate
@@ -273,13 +282,13 @@ He hired two developers (per-hour, managed via Trello), while still doing a larg
 
 #### Clients & Platforms
 
-| Client | Website |
-|--------|---------|
-| Heba El-Sayed | https://heba-elsayed.com/ |
-| Mohammed Hekal | https://mohammed-hekal.com/ |
-| Abulilah | https://abulilah.com/ |
-| Demo platform | https://demo.learn-shift.org/ |
-| Admin demo | https://dashboard-demo.learn-shift.org/ |
+| Client         | Website                                 |
+| -------------- | --------------------------------------- |
+| Heba El-Sayed  | https://heba-elsayed.com/               |
+| Mohammed Hekal | https://mohammed-hekal.com/             |
+| Abulilah       | https://abulilah.com/                   |
+| Demo platform  | https://demo.learn-shift.org/           |
+| Admin demo     | https://dashboard-demo.learn-shift.org/ |
 
 #### Monorepo Architecture Upgrade
 
@@ -288,7 +297,7 @@ The system was refactored into a **monorepo architecture** with 3 main repos (cl
 #### Impact
 
 - 🎓 Served **20,000+ students** across multiple online classes
-- 👨‍🏫 Enabled **3+ teachers** to transition to professional e-learning
+- 👨‍🏫 Enabled **5+ teachers** to transition to professional e-learning
 - ⚡ Reduced manual grading and student management effort by **over 70%**
 - 🌐 Created a full digital presence for each educational center
 
@@ -351,13 +360,14 @@ A client running a nursery/kindergarten approached Learn Shift for a comprehensi
 **Website:** https://modawim.com/
 
 Abdelrahman is an avid user of tools like Notion and Obsidian. He even built systems for institutions in Notion. However, he identified major pain points with these apps:
+
 - They start as an empty page, requiring users to build everything from scratch
 - Users need to take courses to learn complex features like databases
-- Setup takes too long, making users focus on *building* systems rather than *using* them to be productive
+- Setup takes too long, making users focus on _building_ systems rather than _using_ them to be productive
 
 This led him to create **Modawim** (مداوم) — named after the Islamic hadith:
 
-> *أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ*
+> _أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ_
 
 The app helps users stay consistently productive by providing all the tools they need with a simple UI and optimal UX — everything ready to use from day one.
 
@@ -366,6 +376,7 @@ The app helps users stay consistently productive by providing all the tools they
 Tools include: task manager, project manager, goal manager, notes manager, habits tracker, journaling tracker, archive management, global tags system, analytics, and UI customization.
 
 **Example — Task Manager features:**
+
 - List, Kanban, Eisenhower matrix, and calendar views
 - Tags, project linking, due dates, reminders, priority
 - Inbox, Today, Overdue, and Future task views
@@ -373,6 +384,7 @@ Tools include: task manager, project manager, goal manager, notes manager, habit
 - Filters and sorters
 
 **Example — Habits Tracker features:**
+
 - Habit grouping by topic
 - Streak and counter-based tracking
 - Grid and list daily views
@@ -384,7 +396,7 @@ Tools include: task manager, project manager, goal manager, notes manager, habit
 - Progress bars
 - Tags system
 
-All tools are backed by psychological research, studies, and techniques from books like *Atomic Habits*.
+All tools are backed by psychological research, studies, and techniques from books like _Atomic Habits_.
 
 #### Tech Stack
 
@@ -470,12 +482,12 @@ QuickTube is a Python desktop application that solves a real problem Abdelrahman
 
 ### 12. Other Notable Projects
 
-| Project | Description | Link |
-|---------|-------------|------|
-| Forkify | Recipe finder app with 1,000,000+ recipes and ingredient adjustments | https://abdelrahman-forkify.netlify.app/ |
-| Omnifood | Modern restaurant landing page with responsive design, animations, pricing, testimonials, and a contact form | https://abdelrahman-ahmed-nassar.github.io/omnifood/ |
-| Bankist App | Banking application simulation with transfers and transaction history | https://abdelrahman-ahmed-nassar.github.io/bankist/ |
-| Mapty | Workout tracking app with map integration for running and cycling — data persisted locally | https://abdelrahman-ahmed-nassar.github.io/mapty/ |
+| Project     | Description                                                                                                  | Link                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------- |
+| Forkify     | Recipe finder app with 1,000,000+ recipes and ingredient adjustments                                         | https://abdelrahman-forkify.netlify.app/             |
+| Omnifood    | Modern restaurant landing page with responsive design, animations, pricing, testimonials, and a contact form | https://abdelrahman-ahmed-nassar.github.io/omnifood/ |
+| Bankist App | Banking application simulation with transfers and transaction history                                        | https://abdelrahman-ahmed-nassar.github.io/bankist/  |
+| Mapty       | Workout tracking app with map integration for running and cycling — data persisted locally                   | https://abdelrahman-ahmed-nassar.github.io/mapty/    |
 
 > Across all projects, Abdelrahman has built **20+ projects** in total.
 
@@ -484,41 +496,48 @@ QuickTube is a Python desktop application that solves a real problem Abdelrahman
 ## Skills & Technologies
 
 ### Frontend
+
 Next.js · React.js · TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind CSS · Shadcn/UI · Ant Design · Zustand · React Query · Redux · i18n
 
 ### Backend
+
 Node.js · NestJS · Express.js · REST API Design · JWT · RBAC · Redis · BullMQ · Webhooks integration
 
 ### Databases
+
 PostgreSQL · MongoDB · Supabase · Drizzle ORM · Redis
 
 ### DevOps & Cloud
+
 Docker · Docker Compose · Nginx · GitHub Actions (CI/CD) · DigitalOcean VPS · AWS (Cloud Practitioner + Solutions Architect) · Cloudflare · SSL/TLS · Linux · SSH
 
 ### Tools & Platforms
+
 Cloudinary · Bunny.net · Fawry Payment Gateway · Twilio · Firebase FCM · Resend · Upstash · Sentry · Grafana · Pino · Playwright · Figma · Swagger · Postman · Git
 
 ### Other Languages
+
 Python · Java · C++ (used for competitive programming)
 
 ### AI Tools
+
 GitHub Copilot · Cursor · Claude · Prompt Engineering · MCP · Agentic AI workflows
 
 ---
 
 ## Courses & Certifications
 
-| Course | Platform | Certificate |
-|--------|----------|-------------|
-| Become a Programmer: Foundations (12 courses) | LinkedIn Learning | https://www.linkedin.com/learning/certificates/1123c536078d8280e973f7cbe20d56249963fa19c39b1ad9eeb6bf74a2fe44b3 |
-| Build Responsive Real-World Websites with HTML and CSS | Udemy (Jonas Schmedtmann) | https://drive.google.com/file/d/1i7_y9xUG1oQyBhnEjTSvgf9OkYU5ar6e/view |
-| The Complete JavaScript Course 2025: From Zero to Expert! | Udemy (Jonas Schmedtmann) | https://www.udemy.com/certificate/UC-f32afeb5-246e-4073-a57d-b26844a095b9/ |
-| React - The Complete Guide (incl. Next.js, Redux) | Udemy (Maximilian Schwarzmüller) | https://www.udemy.com/certificate/UC-c7aa9939-c33c-46aa-a88a-6a345ba05bbf/ |
-| The Ultimate React Course 2025: React, Next.js, Redux & More | Udemy (Jonas Schmedtmann) | *(in progress)* |
-| NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno) | Udemy (Maximilian Schwarzmüller) | — |
-| Git & GitHub | LinkedIn Learning | https://www.linkedin.com/learning/certificates/9381b19a356f432074b3045c42eeb7b6f85344f3a68ccbc6822970758d512998 |
-| AWS Certified Cloud Practitioner (CLF-C01) | A Cloud Guru | — |
-| AWS Certified Solutions Architect Associate | A Cloud Guru | — |
+| Course                                                       | Platform                         | Certificate                                                                                                     |
+| ------------------------------------------------------------ | -------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Become a Programmer: Foundations (12 courses)                | LinkedIn Learning                | https://www.linkedin.com/learning/certificates/1123c536078d8280e973f7cbe20d56249963fa19c39b1ad9eeb6bf74a2fe44b3 |
+| Build Responsive Real-World Websites with HTML and CSS       | Udemy (Jonas Schmedtmann)        | https://drive.google.com/file/d/1i7_y9xUG1oQyBhnEjTSvgf9OkYU5ar6e/view                                          |
+| The Complete JavaScript Course 2025: From Zero to Expert!    | Udemy (Jonas Schmedtmann)        | https://www.udemy.com/certificate/UC-f32afeb5-246e-4073-a57d-b26844a095b9/                                      |
+| React - The Complete Guide (incl. Next.js, Redux)            | Udemy (Maximilian Schwarzmüller) | https://www.udemy.com/certificate/UC-c7aa9939-c33c-46aa-a88a-6a345ba05bbf/                                      |
+| The Ultimate React Course 2025: React, Next.js, Redux & More | Udemy (Jonas Schmedtmann)        | _(in progress)_                                                                                                 |
+| NodeJS - The Complete Guide (MVC, REST APIs, GraphQL, Deno)  | Udemy (Maximilian Schwarzmüller) | —                                                                                                               |
+| Git & GitHub                                                 | LinkedIn Learning                | https://www.linkedin.com/learning/certificates/9381b19a356f432074b3045c42eeb7b6f85344f3a68ccbc6822970758d512998 |
+| AWS Certified Cloud Practitioner (CLF-C01)                   | A Cloud Guru                     | —                                                                                                               |
+| AWS Certified Solutions Architect Associate                  | A Cloud Guru                     | —                                                                                                               |
 
 ---
 
@@ -543,15 +562,15 @@ He paused this pursuit to focus on his projects, but plans to participate in the
 
 Books Abdelrahman is actively reading and studying:
 
-- *Head First OOP*
-- *Head First Design Patterns*
-- *Clean Code*
-- *Grokking Algorithms*
-- *Designing Data-Intensive Applications (2nd Edition — 2026)*
-- *Cracking the Coding Interview*
-- *The Pragmatic Programmer*
-- *Clean Architecture*
-- *Introduction to Algorithms*
+- _Head First OOP_
+- _Head First Design Patterns_
+- _Clean Code_
+- _Grokking Algorithms_
+- _Designing Data-Intensive Applications (2nd Edition — 2026)_
+- _Cracking the Coding Interview_
+- _The Pragmatic Programmer_
+- _Clean Architecture_
+- _Introduction to Algorithms_
 
 ---
 
@@ -621,4 +640,4 @@ He plans to achieve this by:
 
 ---
 
-*Note: Abdelrahman is not currently applying for any position. This profile is being prepared in advance so he is ready for any opportunity that arises.*
+_Note: Abdelrahman is not currently applying for any position. This profile is being prepared in advance so he is ready for any opportunity that arises._

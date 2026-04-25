@@ -43,7 +43,7 @@ Full-Stack Developer specializing in:
 He has built and shipped 5+ major production systems:
 
 1. **Al-Azhar Electronics Showcase** — official university student project archive (59+ projects, 75+ teams)
-2. **LMS Platform** — full learning management system for teachers, now a startup product serving 3+ teachers and 20,000+ students
+2. **LMS Platform** — full learning management system for teachers, now a startup product serving 5+ teachers and 20,000+ students
 3. **Kindergarten ERP** — full ERP system for nursery management (100+ employees, 1000+ children)
 4. **Modawim (مداوم)** — SaaS productivity app serving thousands of users
 5. **QuickTube** — Python desktop app with 100+ GitHub stars
@@ -65,7 +65,7 @@ He has built and shipped 5+ major production systems:
 
 ## Startup — Learn Shift
 
-After his internship, Abdelrahman founded **Learn Shift** (learn-shift.org) — a startup that provides white-label LMS platforms to teachers and online academies. Currently serving 3+ clients (heba-elsayed.com, muslim-house.com, waytoislam.academy, and more).
+After his internship, Abdelrahman founded **Learn Shift** (learn-shift.org) — a startup that provides white-label LMS platforms to teachers and online academies. Currently serving 5+ clients (heba-elsayed.com, muslim-house.com, waytoislam.academy, and more).
 
 → Full startup story: [see startup](data/startup.md)
 
