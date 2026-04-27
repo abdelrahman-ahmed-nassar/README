@@ -46,6 +46,10 @@ Modawim provides all productivity tools **pre-built, ready to use immediately**,
 - ✅ Notes Manager
 - ✅ Habits Tracker
 - ✅ Journaling System
+- ✅ Communities
+- ✅ Educational Content
+- ✅ Calendar Management
+- ✅ Goals and Planning
 - ✅ Archive Manager
 - ✅ Global Tags System
 - ✅ Analytics Dashboard

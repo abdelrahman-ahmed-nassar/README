@@ -19,17 +19,17 @@ Student hardware projects at the Computer & Systems Engineering department at Al
 
 Instead of submitting a hardware project for his electronics course, Abdelrahman proposed and built a full-stack web platform where students can upload, document, and permanently showcase their engineering projects.
 
-Each student gets an auto-generated portfolio. Each team gets a dedicated profile page. The faculty gets a professional window into all student work.
+Each student gets an auto-generated portfolio. Each team gets a dedicated profile page. The faculty gets a professional window into all student work, while external visitors can browse projects and connect with student teams.
 
 ---
 
 ## Tech Stack
 
-| Layer | Technology |
-|---|---|
-| Frontend | Next.js, TypeScript, Tailwind CSS |
-| Backend/Database | Supabase, PostgreSQL |
-| Storage | Cloudinary (image uploads) |
+| Layer            | Technology                        |
+| ---------------- | --------------------------------- |
+| Frontend         | Next.js, TypeScript, Tailwind CSS |
+| Backend/Database | Supabase, PostgreSQL              |
+| Storage          | Cloudinary (image uploads)        |
 
 ---
 
@@ -47,11 +47,11 @@ Each student gets an auto-generated portfolio. Each team gets a dedicated profil
 
 ## Impact
 
-| Metric | Number |
-|---|---|
-| Student Projects | 59+ |
-| Research Teams | 75+ |
-| Active Users | Yes (students + faculty) |
+| Metric           | Number                   |
+| ---------------- | ------------------------ |
+| Student Projects | 59+                      |
+| Research Teams   | 75+                      |
+| Active Users     | Yes (students + faculty) |
 
 ---
 

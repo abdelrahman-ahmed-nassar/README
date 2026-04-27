@@ -639,5 +639,3 @@ He plans to achieve this by:
 **Possible long-term directions:** Product Manager, Project Manager, or Founder/Business Owner — all reflecting his passion for building things end-to-end and managing the full product lifecycle.
 
 ---
-
-_Note: Abdelrahman is not currently applying for any position. This profile is being prepared in advance so he is ready for any opportunity that arises._
